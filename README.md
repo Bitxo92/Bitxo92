@@ -1,5 +1,5 @@
-# ⚡Alejandro Patiño⚡ 
-### `{ Junior Developer | Mobile & Backend Programmer }`
+#👋 Hi, I'm Alejandro Patiño 
+### ⚡Junior Developer | Mobile & Backend Developer⚡
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150" alt="Coding terminal animation">
