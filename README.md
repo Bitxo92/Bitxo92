@@ -1,4 +1,4 @@
-### Hi 👋, I'm Alejandro Patiño 
+# Hi 👋, I'm Alejandro Patiño 
 ### ⚡Junior Developer | Mobile & Backend Developer⚡
 
 <p align="center">
