@@ -27,7 +27,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🎓 Education
-- **DAM (Development of Multiplatform Applications)** - [Leliadoura]
+- **DAM (Development of Multiplatform Applications)** - [IES Leliadoura]
 - Currently learning **Flutter** at lightning speed! ⚡
 
 ## 🔥 Current Projects
