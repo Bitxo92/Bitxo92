@@ -31,7 +31,7 @@
 - Currently learning **Flutter** at lightning speed! ⚡
 
 ## 🔥 Current Projects
-1. **DogWalkz** - DogWalker Finder App (Flutter + Firebase)
+1. **DogWalkz** - DogWalker Finder App (Flutter + Supabase)
 
 ## 📊 GitHub Stats
 [![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitxo92&show_icons=true&theme=radical&title_color=FFD700&text_color=FFFFFF&icon_color=00FFFF&bg_color=000000)](https://github.com/Bitxo92)
