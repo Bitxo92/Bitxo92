@@ -1,4 +1,4 @@
-<h1 align="center" font-family="bungee shade"> "Welcome to my Github Profile!"<p align="center">
+<h1 align="center"> "Welcome to my Github Profile!"<p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Coding terminal animation">
 </p>
 <p align="center">
@@ -37,7 +37,7 @@
 
 
 ## 🎓 Education
-- **DAM (Development of Multiplatform Applications)** - [IES Leliadoura]
+- **DAM (Development of Multiplatform Applications)**
 - Currently learning **React**
 
 ## 🔥 Current Projects
@@ -59,3 +59,4 @@
   <br>
   <strong>Open to new opportunities</strong>
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=Bitxo92&label=Profile%20views&color=0e75b6&style=flat)
