@@ -59,4 +59,4 @@
   <br>
   <strong>Open to new opportunities</strong>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=Bitxo92&label=Profile%20views&color=0e75b6&style=flat)
+
