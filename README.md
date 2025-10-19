@@ -45,9 +45,14 @@
 1. **DogWalkz** - DogWalker Finder App (Flutter + Supabase)
 
 ## 📊 GitHub Stats
-[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitxo92&show_icons=true&theme=radical&title_color=FFD700&text_color=FFFFFF&icon_color=00FFFF&bg_color=000000)](https://github.com/Bitxo92)
+![Bitxo92's Stats](https://github-readme-stats.vercel.app/api?username=Bitxo92&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bitxo92&layout=compact&theme=radical&title_color=FFD700&text_color=FFFFFF&icon_color=00FFFF&bg_color=000000)](https://github.com/Bitxo92)
+
+![Bitxo92's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bitxo92&theme=radical&hide_border=false)
+
+
+![Bitxo92's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bitxo92&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
 
 
 
