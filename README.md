@@ -42,12 +42,6 @@
 
 
 
-## 🎓 Education
-- **DAM (Development of Multiplatform Applications)**
-- Currently learning **React**
-
-## 🔥 Current Projects
-1. **DogWalkz** - DogWalker Finder App (Flutter + Supabase)
 
 ## 📊 GitHub Stats
 ![Bitxo92's Stats](https://github-readme-stats.vercel.app/api?username=Bitxo92&theme=radical&show_icons=true&hide_border=false&count_private=true)
